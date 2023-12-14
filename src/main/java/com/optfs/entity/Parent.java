@@ -15,7 +15,6 @@ public class Parent {
 	private String email;
 	private String password;
 	
-	
 
 	public Parent() {
 		super();
